@@ -26,6 +26,19 @@ Z poziomu głównego menu nie ma możliwości kliknięcia w informacje o danym m
 #### Błędy i propozycje ich poprawienia:
 * [Gracze](https://scouts-test.futbolkolektyw.pl/pl/players)
   * brak możliwości dodania gracza - można jedynie edytować już istniejących
-  * adres mailowy można wpisać cokolwiek (bez @) - powienien od razu wyskakiwać komunikat, że wpisano błędny adres
+  * adres mailowy można wpisać cokolwiek (bez @) - 
+  *powienien od razu wyskakiwać komunikat, że wpisano błędny adres
+  * imię i nazwisko można wpisać nieskończenie wiele znaków i rownież znaki inne niż litery 
+  *blokada innych znaków niż litery
+  *ograniczenie do 30 liter
+  * telefon - można wpisać litery
+  *narzucony format (kierunkowy kraju plus 6 cyfrowy format)
+  * waga i wzrost - można wpisać wartości ekstremanie duże oraz ujemne
+  *waga - narzucony przedział (np. od 40 - 100) - miara narzucona - kg
+  *blokada mozliwości wpisania wartości ujemnych
+  *wzrost - narzocony przedział (np. 130 - 210) - miara narzucona - cm
+  *blokada mozliwości wpisania wartości ujemnych
+  * data urodzenia - można dodać datę z przyszłości oraz bardzo przeszłą
+  *zablokowoana możliwość dodania daty przyszłej
   
 
