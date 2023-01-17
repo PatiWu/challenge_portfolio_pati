@@ -26,19 +26,70 @@ Z poziomu głównego menu nie ma możliwości kliknięcia w informacje o danym m
 #### Błędy i propozycje ich poprawienia:
 * [Gracze](https://scouts-test.futbolkolektyw.pl/pl/players)
   * brak możliwości dodania gracza - można jedynie edytować już istniejących
-  * adres mailowy można wpisać cokolwiek (bez @) - 
-  *powienien od razu wyskakiwać komunikat, że wpisano błędny adres
+  * adres mailowy można wpisać cokolwiek (bez @)
+  
+  **powienien od razu wyskakiwać komunikat, że wpisano błędny adres**
   * imię i nazwisko można wpisać nieskończenie wiele znaków i rownież znaki inne niż litery 
-  *blokada innych znaków niż litery
-  *ograniczenie do 30 liter
+ 
+  **blokada innych znaków niż litery**
+  **ograniczenie do 30 liter**
   * telefon - można wpisać litery
-  *narzucony format (kierunkowy kraju plus 6 cyfrowy format)
+  
+  **narzucony format (kierunkowy kraju plus 6 cyfrowy format)**
   * waga i wzrost - można wpisać wartości ekstremanie duże oraz ujemne
-  *waga - narzucony przedział (np. od 40 - 100) - miara narzucona - kg
-  *blokada mozliwości wpisania wartości ujemnych
-  *wzrost - narzocony przedział (np. 130 - 210) - miara narzucona - cm
-  *blokada mozliwości wpisania wartości ujemnych
+ 
+  **waga - narzucony przedział (np. od 40 - 100) - miara narzucona - kg**
+  **blokada możliwości wpisania wartości ujemnych**
+  **wzrost - narzucony przedział (np. 130 - 210) - miara narzucona - cm**
+  **blokada możliwości wpisania wartości ujemnych**
   * data urodzenia - można dodać datę z przyszłości oraz bardzo przeszłą
-  *zablokowoana możliwość dodania daty przyszłej
+ 
+  **zablokowoana możliwość dodania daty przyszłej**
+  * główna pozycja i pozycja alternatywna - można wpisywać inne znaki niż litery
+ 
+  **wybór z listy rozwijanej**
+  * województwo Dolnoślaskie - literówka
+ 
+  **powinno być DolnoślAskie na DolnoślĄskie**
+  * link do Youtube - można wpisać cokolwiek, można dodawać nieskończenie wiele pól jednocześnie nie dodając do nich treści
+ 
+  **narzucony format http, można dodać kolejne pole jak wcześniejsze zostało uzupełnione**
+  * dodaj język - można wpisać cokolwiek, można dodawać nieskończenie wiele pól jednocześnie nie dodając do nich treści
+ 
+  **wybór z listy rozwijanej, można dodać kolejne pole jak wcześniejsze zostało uzupełnione**
+  * po błędnym uzupełnieniu pola (np. błędny adres mailowy) profil gracza nie zapisuje się - brak informacji, które z pól należy poprawić
+ 
+  **zaznaczenie na czerwono pola, które zostało błędnie uzupełnione**
+  * każdy może dokonać edycji gracza
+
+  **edycja gracza tylko przez login, z którego został utworzony**
+  * po zapisaniu gracza pojawia się informacja wraz ze wskaźnikiem upływającego czasu - niepotrzebnie
+  
+  **informacja o prawidłowym zapisaniu gracza znika po 4 sekundach**
+  
+* [Mecze](https://scouts-test.futbolkolektyw.pl/pl/players/6026b48956c79737b3f3c624/matches)
+ * drużyna i drużyna przeciwna - można wpisać cokolwiek
+ **wybór z listy rozwijanej**
+
+ * zdobyte gole - brak max wartości
+ * data - można dodać datę z przyszłości oraz bardzo przeszłą
+
+ **zablokowoana możliwość dodania daty przyszłej**
+ * czas gry - można wpisać wartości ujemne
+
+ **powinien być narzucony przedział, wpisany miernik (min.)**
+ * numer - można wpisać wartości ujemne
+
+ **powinien być narzucony przedział**
+ * web match i general - wpisane w j. angielskim
+
+ **powinna być spójność i wpisane w języku polskim**
+ 
+* Pozostałe:
+ * [dodawanie raportu do gracza](https://scouts-test.futbolkolektyw.pl/pl/players/6026b48956c79737b3f3c624/reports/add?matchId=6311f33d806291c83d9fd815) - nie działa
+ * mimo iż nie mam zarejestrowanego konta mailowego w aplikacji to po kliknięciu w przypomnij hasło i wpisaniu maila wyskoczyło info, że hasło zostało wysłane - nie  otrzymałam żadnej wiadomości
+ * informacja o błędnie wpisanym adresie lub haśle wyświetla się w j.angielskim
+ * 
+
   
 
