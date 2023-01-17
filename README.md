@@ -1,3 +1,16 @@
+## Spis treści
+1. [Task 1](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#task-1)
+
+   1.1 [Subtask 1](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#subtask-1)
+
+   1.2 [Subtask 3](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#subtask-3)
+
+   1.3 [Subtask 4](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#subtask-4)
+     * [Przeznaczenie aplikacji](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#przeznaczenie-aplikacji)
+     * [Funkcjonalności](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#funkcjonalno%C5%9Bci)
+     * [Interface](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#interface-nie-jest-przyjazny)
+     * [Błędy](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#b%C5%82%C4%99dy-i-propozycje-ich-poprawienia) 
+
 # Task 1
 ## Subtask 1
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Eo_circle_deep-purple_number-8.svg/240px-Eo_circle_deep-purple_number-8.svg.png)
