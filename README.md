@@ -20,8 +20,8 @@
 
 ## Subtask 4
 #### Przeznaczenie aplikacji:
-* po pierwsze primo: przeznaczenia nie oszukasz :rocket:
-* po kolejne: Aplikacja jest stworzona dla łowców talentów piłki nożnej. Daje dostęp do przydatnych informacji na temat piłkarza takich jak wzrost, waga, wiek itd oraz najważniejszych osiągnięć. Łowca może również pobrać gotowy raport zawierający niezbędne informacje.
+* po pierwsze: przeznaczenia nie oszukasz :rocket:
+* po drugie: aplikacja jest stworzona dla łowców talentów piłki nożnej. Daje dostęp do przydatnych informacji na temat piłkarza takich jak wzrost, waga, wiek itd oraz najważniejszych osiągnięć. Łowca może również pobrać gotowy raport zawierający niezbędne informacje.
 #### Funkcjonalności:
 * przeglądanie wskaźników i informacji piłkarza
 * dodawanie i edycja gracza
