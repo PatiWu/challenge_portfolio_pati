@@ -108,5 +108,8 @@ Z poziomu głównego menu nie ma możliwości kliknięcia w informacje o danym m
   
   * [link adresu mailowego w stopce](https://scouts-test.futbolkolektyw.pl/players/6026b48956c79737b3f3c624/reports/63c6e2a64cff3d0bdc152cbc/edit) nie działa poprawnie
 
-  
+# Task 2
+## Subtask 3
+#### Na co komu test case'y?
+*Bo człowiek lubi komplikować sobie życie :grin:. Uważam, że przypadki testowe to 
 
