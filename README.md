@@ -10,6 +10,13 @@
      * [Funkcjonalności](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#funkcjonalno%C5%9Bci)
      * [Interface](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#interface-nie-jest-przyjazny)
      * [Błędy](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#b%C5%82%C4%99dy-i-propozycje-ich-poprawienia) 
+2. [Task 2](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#subtask-3-1)
+ 
+   2.1 [Subtask 1](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#subtask-1-1)
+   
+   2.2 [Subtask 2](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#subtask-2)
+   
+   2.3 [Subtask 3](https://github.com/PatiWu/challenge_portfolio_pati/edit/main/README.md#subtask-3-1)
 
 # Task 1
 ## Subtask 1
@@ -109,7 +116,14 @@ Z poziomu głównego menu nie ma możliwości kliknięcia w informacje o danym m
   * [link adresu mailowego w stopce](https://scouts-test.futbolkolektyw.pl/players/6026b48956c79737b3f3c624/reports/63c6e2a64cff3d0bdc152cbc/edit) nie działa poprawnie
 
 # Task 2
+## Subtask 1 
+*link do google drive [[KLIK]](https://docs.google.com/spreadsheets/d/1rYWi2ovXgqDEjZbVmLByuVoVv052FImbfB35RqXidO8/edit#gid=2029615675)*
+
+## Subtask 2 
+*link do google drive [[KLIK]](https://docs.google.com/spreadsheets/d/1AFZGiyogVNeWSZlCWNzrDye-GW_Lkj2HaxZn2uQszTo/edit#gid=0)*
+
 ## Subtask 3
 #### Na co komu test case'y?
-*Bo człowiek lubi komplikować sobie życie :grin:. A tak serio to wspaniały pomysł na spędzenie wolnego czasu :tropical_drink:. 
+*Bo człowiek lubi komplikować sobie życie :grin:. A tak serio to wspaniały pomysł na spędzenie wolnego czasu :tropical_drink:. A oprócz tego test case'y to udokumentowane różne możliwości obsłużenia poszczególnych funkcjonalności danej aplikacji. Są zbiorem informacji na temat danej aplikacji a ich przeprowadzenie daje odpowiedź czy dane funkcjonalności działają zgodnie z przyjętymi założeniami.*
+
 
