@@ -111,5 +111,5 @@ Z poziomu głównego menu nie ma możliwości kliknięcia w informacje o danym m
 # Task 2
 ## Subtask 3
 #### Na co komu test case'y?
-*Bo człowiek lubi komplikować sobie życie :grin:. Uważam, że przypadki testowe to 
+*Bo człowiek lubi komplikować sobie życie :grin:. A tak serio to wspaniały pomysł na spędzenie wolnego czasu :tropical_drink:. 
 
